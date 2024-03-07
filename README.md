@@ -1,8 +1,8 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ,  I´m Ignacio Bascuñán 🇨🇱
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ,  I´m Ignacio Bascuñán <img src="https://em-content.zobj.net/source/twitter/53/flag-for-chile_1f1e8-1f1f1.png" width=30>
 
 ![nene](https://media.licdn.com/dms/image/C4E16AQGhtWvt4ncHVg/profile-displaybackgroundimage-shrink_350_1400/0/1643739844100?e=1715212800&v=beta&t=SqUKVY6ZYjSkZJ0yUBgFVMrrJz2a8vtFx4T7c_3LrPM)
 
-
+I´m Ignacio Bascuñán an Electronic-Communication engineering student from 🇱🇾 "Libya", and a self-taught developer with deep passion for Computer-Science and Technologies.
 
 <!--
 **IgnaBascu/IgnaBascu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
