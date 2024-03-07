@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ,  I´m Ignacio Bascuñán <img src="https://em-content.zobj.net/source/twitter/53/flag-for-chile_1f1e8-1f1f1.png" width=30>
+# <p align=center> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </p>
 
 ![nene](https://media.licdn.com/dms/image/C4E16AQGhtWvt4ncHVg/profile-displaybackgroundimage-shrink_350_1400/0/1643739844100?e=1715212800&v=beta&t=SqUKVY6ZYjSkZJ0yUBgFVMrrJz2a8vtFx4T7c_3LrPM)
 
