@@ -11,7 +11,7 @@ I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionat
 🤖 &nbsp;Planning to learn new programming languages like C or Rust for the future.\
 ✍️ &nbsp;In my free time, i dedicate myself to my hobbies which are mostly Anime/Manga, Video games and spending time with my cat.\
 🪛 &nbsp;Sometimes I like to do DIY projects around the house.\
-📄 &nbsp;Here is my [`Curriculum Vitae`](https://drive.google.com/file/d/12Yd_p9_IMFAK9Ko9oq7nlvENGb3Us32c/view?usp=drive_link) for you to have a look at it.
+📄 &nbsp;Here is my [`Curriculum Vitae`](https://drive.google.com/file/d/1b2xOc9FImCEf0KrhHDNKYlv3vTPJQr_O/view?usp=sharing) for you to have a look at it.
 
 ### 🛠 &nbsp;Tech Stack
 
