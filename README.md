@@ -47,6 +47,9 @@ I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionat
 ![microsoftazure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat&logo=microsoftazure&logoColor=#0078D4)&nbsp;
 ![amazonaws](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=#232F3E)&nbsp;
 ![machine learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikitlearn&logoColor=#F7931E)&nbsp;
+![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=apacheairflow&logoColor=#017CEE)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark&logoColor=#E25A1C)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka&logoColor=#231F20)&nbsp;
 
 
 
