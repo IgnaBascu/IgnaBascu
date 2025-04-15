@@ -1,5 +1,3 @@
-![nene](https://media.licdn.com/dms/image/C4E16AQGhtWvt4ncHVg/profile-displaybackgroundimage-shrink_350_1400/0/1643739844100?e=1715212800&v=beta&t=SqUKVY6ZYjSkZJ0yUBgFVMrrJz2a8vtFx4T7c_3LrPM)
-
 # <p align=center> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </p>
 
 I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionate about Computer Science and Technologies and looking for a job opportunity in the industry 💻🌠
@@ -11,7 +9,7 @@ I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionat
 🤖 &nbsp;Planning to learn new programming languages like C or Rust for the future.\
 ✍️ &nbsp;In my free time, i dedicate myself to my hobbies which are mostly Anime/Manga, Video games and spending time with my cat.\
 🪛 &nbsp;Sometimes I like to do DIY projects around the house.\
-📄 &nbsp;Here is my [`Curriculum Vitae`](https://drive.google.com/file/d/1b2xOc9FImCEf0KrhHDNKYlv3vTPJQr_O/view?usp=sharing) for you to have a look at it.
+📄 &nbsp;Here is my [`Curriculum Vitae`](https://drive.google.com/file/d/1aHqRzGmOvh5TQhcaq4C4WWVlvAOqp0q8/view?usp=drive_link) for you to have a look at it.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -26,11 +24,6 @@ I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionat
 * **Back end**
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=coffeescript&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=512BD4)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=#512BD4)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=#777BB4)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 * **Other Skills**
 
@@ -49,7 +42,7 @@ I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionat
 ![machine learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikitlearn&logoColor=#F7931E)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=apacheairflow&logoColor=#017CEE)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark&logoColor=#E25A1C)&nbsp;
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka&logoColor=#231F20)&nbsp;
+
 
 
 
