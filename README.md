@@ -4,11 +4,8 @@ I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionat
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;INACAP Computer Engineering Graduate looking for employment.\
+🎓 &nbsp;INACAP Computer Engineering Graduate.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Engineering and Cloud Architecture.\
-🤖 &nbsp;Planning to learn new programming languages like C or Rust for the future.\
-✍️ &nbsp;In my free time, i dedicate myself to my hobbies which are mostly Anime/Manga, Video games and spending time with my cat.\
-🪛 &nbsp;Sometimes I like to do DIY projects around the house.\
 📄 &nbsp;Here is my [`Curriculum Vitae`](https://drive.google.com/file/d/1aHqRzGmOvh5TQhcaq4C4WWVlvAOqp0q8/view?usp=drive_link) for you to have a look at it.
 
 ### 🛠 &nbsp;Tech Stack
