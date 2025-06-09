@@ -5,8 +5,7 @@ I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionat
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;INACAP Computer Engineering Graduate.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Engineering and Cloud Architecture.\
-📄 &nbsp;~~Here is my [`Curriculum Vitae`](https://docs.google.com/document/d/1PatF6OOeqvaT8RZRFS_uzIVPPBoC6gh5AnHisI91OzI/edit?usp=sharing) for you to have a look at it.~~
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Engineering and Cloud Architecture.
 
 ### 🛠 &nbsp;Tech Stack
 
