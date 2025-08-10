@@ -30,8 +30,8 @@ I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionat
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=#CC2927)&nbsp;
 ![mysql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=#4479A1)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=white);
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=#47A248)&nbsp;
 ![googlecolab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab&logoColor=#F9AB00)&nbsp;
 ![machine learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikitlearn&logoColor=#F7931E)&nbsp;
