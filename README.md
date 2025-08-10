@@ -1,6 +1,6 @@
 # <p align=center> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </p>
 
-I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionate about Computer Science and Technologies and looking for a job opportunity in the industry 💻🌠
+I´m Ignacio Bascuñán, a Computer Engineer from 🇨🇱 Chile, passionate about Computer Science, Data Engineering, and Software Development, and looking for job opportunities in these areas 💻📊🚀
 
 ### 👨🏻‍💻 &nbsp;About Me
 
