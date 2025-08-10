@@ -20,6 +20,7 @@ I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionat
 * **Back end**
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![API REST](https://img.shields.io/badge/-API%20REST-05122A?style=flat&logo=rest-api&logoColor=white)&nbsp;
 
 * **Other Skills**
 
@@ -36,6 +37,13 @@ I´m Ignacio Bascuñán, a Computer Enginnering from 🇨🇱 "Chile", passionat
 ![googlecolab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab&logoColor=#F9AB00)&nbsp;
 ![machine learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikitlearn&logoColor=#F7931E)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=apacheairflow&logoColor=#017CEE)&nbsp;
+![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apache-spark&logoColor=white)&nbsp;
+![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n&logoColor=white)&nbsp;
+
+
+
+
 
 
 
