@@ -20,7 +20,6 @@ I´m Ignacio Bascuñán, a Computer Engineer from 🇨🇱 Chile, passionate abo
 * **Back end**
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=white)&nbsp;
 ![API REST](https://img.shields.io/badge/-API%20REST-05122A?style=flat&logo=rest-api&logoColor=white)&nbsp;
 
 * **Other Skills**
