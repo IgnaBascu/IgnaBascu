@@ -15,11 +15,11 @@ I´m Ignacio Bascuñán, a Computer Engineer from 🇨🇱 Chile, passionate abo
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Django](https://img.shields.io/badge/django-05122A?style=flat&logo=django&logoColor=white)
 
 * **Back end**
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=white)&nbsp;
 ![API REST](https://img.shields.io/badge/-API%20REST-05122A?style=flat&logo=rest-api&logoColor=white)&nbsp;
 
 * **Other Skills**
