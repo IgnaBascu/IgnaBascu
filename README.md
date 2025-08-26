@@ -38,7 +38,7 @@ I´m Ignacio Bascuñán, a Computer Engineer from 🇨🇱 Chile, passionate abo
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=apacheairflow&logoColor=#017CEE)&nbsp;
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apache-spark&logoColor=white)&nbsp;
-![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n&logoColor=white)&nbsp;
+
 
 
 
