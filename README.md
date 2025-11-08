@@ -1,11 +1,11 @@
 # <p align=center> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </p>
 
-I´m Ignacio Bascuñán, a Computer Engineer from 🇨🇱 Chile, passionate about Computer Science, Data Engineering, and Software Development, and looking for job opportunities in these areas 💻📊🚀
+I´m Ignacio Bascuñán, a Computer Engineer from 🇨🇱 Chile, passionate about Software Development and Data Engineering. 💻📊🚀
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;INACAP Computer Engineering Graduate.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Engineering and Cloud Architecture.
+🌱 &nbsp;I'm on track for learning more about Arquitechture, Data Engineering and Cloud Architecture.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -19,6 +19,9 @@ I´m Ignacio Bascuñán, a Computer Engineer from 🇨🇱 Chile, passionate abo
 * **Back end**
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat&logo=spring-cloud&logoColor=white)&nbsp;
 ![API REST](https://img.shields.io/badge/-API%20REST-05122A?style=flat&logo=rest-api&logoColor=white)&nbsp;
 
 * **Other Skills**
